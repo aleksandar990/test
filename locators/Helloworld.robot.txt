@@ -1,3 +1,0 @@
-*** Variables ***
-${firstName}      Aleksandar
-${lastName}       Petrovski
